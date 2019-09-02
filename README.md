@@ -1,2 +1,4 @@
-# mytmux
-私のtmuxconf
+# myterminal
+ 
+- .tmux.conf
+- .vimrc
