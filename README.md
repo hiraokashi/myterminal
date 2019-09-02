@@ -1,0 +1,2 @@
+# mytmux
+私のtmuxconf
